@@ -11,8 +11,8 @@ const Result = (props) => {
     return (
         <div className="result" style={{marginLeft:"20px"}}>
           <span className="div1" style={{backgroundColor:"#3A3B3C", color:"white", marginLeft:"700px",marginBottom: "-15px",width:"12%"}}>Owner:{res.owner}</span>
-          <span className="div1" style={{backgroundColor:"#2a9df4", color:"white", marginLeft:"920px",marginTop:"-24px",width:"10%"}}>Last Activity:A year ago</span>
-          <span className="div1" style={{backgroundColor:"#F6BE00", color:"black", marginLeft:"1110px",marginTop:"-22px",width:"10%"}}>Is A Customer</span>
+          <span className="div1" style={{backgroundColor:"#2a9df4", color:"white", marginLeft:"940px",marginTop:"-24px",width:"10%"}}>Last Activity:A year ago</span>
+          <span className="div1" style={{backgroundColor:"#F6BE00", color:"black", marginLeft:"1140px",marginTop:"-22px",width:"10%"}}>Is A Customer</span>
         <h4 style={{fontFamily:"inherit",color:"grey"}}>{res.name} <a  href={link} target='blank'>
         <BsBoxArrowUpRight/>
         </a></h4>
