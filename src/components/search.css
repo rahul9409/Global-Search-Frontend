@@ -10,7 +10,7 @@
 .div1{
     display: flex;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 .result{
     border-width: 20cm;
